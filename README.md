@@ -65,10 +65,10 @@ This season focuses on **Full Stack Web Development** + **Data Structures & Algo
 
 # 🍿 Viewer Ratings (GitHub Stats)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swastik0308&show_icons=true&bg_color=141414&title_color=E50914&text_color=ffffff&icon_color=E50914&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik0308&background=141414&ring=E50914&fire=E50914&currStreakLabel=E50914&dates=ffffff&hide_border=true" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik0308&layout=compact&bg_color=141414&title_color=E50914&text_color=ffffff&hide_border=true" height="150" />
